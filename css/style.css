@@ -60,8 +60,25 @@ body {
 	font-weight: 100;
 }
 
+#contact > h2 > a:link,
+#contact > h2 > a:visited,
+#contact > h2 > a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+#contact > h2 > a:hover {
+	color: #E7153D;
+}
+
 #dave {
 	color: #E7153D;
+}
+
+#footer > .container-fluid > .navbar-nav > li > a:link,
+#footer > .container-fluid > .navbar-nav > li > a:visited,
+#footer > .container-fluid > .navbar-nav > li > a:active {
+	color: #9D9D9D;
 }
 
 #footer > .container-fluid > .navbar-nav > li > #twitter:hover {
@@ -79,3 +96,4 @@ body {
 #footer > .container-fluid > .navbar-nav > li > #google-plus:hover {
 	color: #DD4B39;
 }
+
