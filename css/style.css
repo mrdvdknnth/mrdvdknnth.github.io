@@ -24,12 +24,12 @@ body {
 }
 
 #projects {
-	background-color: #E71840;
+	background-color: #43A047;
 	margin-top: -10px;
 }
 
 #contact > h1 {
-	color: #E7153D;
+	color: #43A047;
 	font-weight: 100;
 }
 
@@ -68,11 +68,11 @@ body {
 }
 
 #contact > h2 > a:hover {
-	color: #E7153D;
+	color: #43A047;
 }
 
 #dave {
-	color: #E7153D;
+	color: #43A047;
 }
 
 #footer > .container-fluid > .navbar-nav > li > a:link,
