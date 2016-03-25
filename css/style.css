@@ -68,11 +68,21 @@ body {
 }
 
 #contact > h2 > a:hover {
+<<<<<<< HEAD
 	color: #43A047;
+=======
+	color: #E7153D;
+>>>>>>> e5c8e937e30a1cdc973007c9c45498d14ef5a346
 }
 
 #dave {
 	color: #43A047;
+}
+
+#footer > .container-fluid > .navbar-nav > li > a:link,
+#footer > .container-fluid > .navbar-nav > li > a:visited,
+#footer > .container-fluid > .navbar-nav > li > a:active {
+	color: #9D9D9D;
 }
 
 #footer > .container-fluid > .navbar-nav > li > a:link,
